@@ -1,0 +1,114 @@
+[
+  {
+    "id": "650658",
+    "dateTime": "2025-12-15T00:00:00Z",
+    "latitude": 51.1143,
+    "longitude": 1.3105,
+    "heading": 109.0,
+    "speed": 0.0
+  },
+  {
+    "id": "650658",
+    "dateTime": "2025-12-15T00:30:00Z",
+    "latitude": 51.11440000000002,
+    "longitude": 1.3106,
+    "heading": 303.0,
+    "speed": 0.0
+  },
+  {
+    "id": "650658",
+    "dateTime": "2025-12-15T13:00:00Z",
+    "latitude": 51.1144,
+    "longitude": 1.3106,
+    "heading": 187.0,
+    "speed": 0.0
+  },
+  {
+    "id": "650658",
+    "dateTime": "2025-12-15T13:30:00Z",
+    "latitude": 51.1144,
+    "longitude": 1.3106,
+    "heading": 28.0,
+    "speed": 0.0
+  },
+  {
+    "id": "650658",
+    "dateTime": "2025-12-15T14:00:00Z",
+    "latitude": 51.1144,
+    "longitude": 1.3105,
+    "heading": 16.0,
+    "speed": 0.0
+  },
+  {
+    "id": "650658",
+    "dateTime": "2025-12-15T14:30:00Z",
+    "latitude": 51.11440000000002,
+    "longitude": 1.3105,
+    "heading": 140.0,
+    "speed": 0.0
+  },
+  {
+    "id": "650658",
+    "dateTime": "2025-12-15T11:00:00Z",
+    "latitude": 51.1143,
+    "longitude": 1.3106,
+    "heading": 213.0,
+    "speed": 0.0
+  },
+  {
+    "id": "650658",
+    "dateTime": "2025-12-15T11:30:00Z",
+    "latitude": 51.1142,
+    "longitude": 1.3106,
+    "heading": 356.0,
+    "speed": 0.05144444444444445
+  },
+  {
+    "id": "650658",
+    "dateTime": "2025-12-15T12:00:00Z",
+    "latitude": 51.1143,
+    "longitude": 1.3109,
+    "heading": 322.0,
+    "speed": 0.0
+  },
+  {
+    "id": "650658",
+    "dateTime": "2025-12-15T12:30:00Z",
+    "latitude": 51.11420000000001,
+    "longitude": 1.3109,
+    "heading": 107.0,
+    "speed": 0.05144444444444445
+  },
+  {
+    "id": "650658",
+    "dateTime": "2025-12-15T07:00:00Z",
+    "latitude": 51.1144,
+    "longitude": 1.311,
+    "heading": 310.0,
+    "speed": 0.0
+  },
+  {
+    "id": "650658",
+    "dateTime": "2025-12-15T07:30:00Z",
+    "latitude": 51.1143,
+    "longitude": 1.311,
+    "heading": 7.0,
+    "speed": 0.0
+  },
+  {
+    "id": "650658",
+    "dateTime": "2025-12-15T08:00:00Z",
+    "latitude": 51.1146,
+    "longitude": 1.31,
+    "heading": 325.0,
+    "speed": 0.0
+  },
+  {
+    "id": "650658",
+    "dateTime": "2025-12-15T08:30:00Z",
+    "latitude": 51.114300000000014,
+    "longitude": 1.3104,
+    "heading": 320.0,
+    "speed": 0.0
+  }
+]

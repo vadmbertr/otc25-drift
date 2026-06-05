@@ -1,0 +1,107 @@
+[
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-10-31T23:36:11+0000",
+    "latitude": 22.50494,
+    "longitude": -21.39691,
+    "batteryState": "LOW"
+  },
+  {
+    "id": "0-4496719",
+    "dateTime": "2025-10-31T23:35:26+0000",
+    "latitude": 44.36394,
+    "longitude": -4.73602,
+    "batteryState": "LOW"
+  },
+  {
+    "id": "0-4496931",
+    "dateTime": "2025-10-31T19:52:59+0000",
+    "latitude": 65.05121,
+    "longitude": 1.63271,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-10-31T16:40:25+0000",
+    "latitude": 22.48694,
+    "longitude": -21.38971,
+    "batteryState": "LOW"
+  },
+  {
+    "id": "0-4496931",
+    "dateTime": "2025-10-31T12:51:41+0000",
+    "latitude": 65.05021,
+    "longitude": 1.87566,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-10-31T11:40:21+0000",
+    "latitude": 22.50135,
+    "longitude": -21.38443,
+    "batteryState": "LOW"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-10-31T11:13:50+0000",
+    "latitude": 22.50209,
+    "longitude": -21.38586,
+    "batteryState": "LOW"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-10-31T08:43:49+0000",
+    "latitude": 22.50359,
+    "longitude": -21.38998,
+    "batteryState": "LOW"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-10-31T08:13:49+0000",
+    "latitude": 22.50355,
+    "longitude": -21.39144,
+    "batteryState": "LOW"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-10-31T07:44:36+0000",
+    "latitude": 22.50386,
+    "longitude": -21.39276,
+    "batteryState": "LOW"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-10-31T07:12:06+0000",
+    "latitude": 22.50445,
+    "longitude": -21.39435,
+    "batteryState": "LOW"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-10-31T05:14:23+0000",
+    "latitude": 22.50564,
+    "longitude": -21.40036,
+    "batteryState": "LOW"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-10-31T02:13:21+0000",
+    "latitude": 22.50611,
+    "longitude": -21.41214,
+    "batteryState": "LOW"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-10-31T01:43:31+0000",
+    "latitude": 22.50582,
+    "longitude": -21.41263,
+    "batteryState": "LOW"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-10-31T01:13:31+0000",
+    "latitude": 22.50535,
+    "longitude": -21.41409,
+    "batteryState": "LOW"
+  }
+]

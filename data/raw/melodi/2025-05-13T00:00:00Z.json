@@ -1,0 +1,866 @@
+[
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T00:02:00.000Z",
+  "latitude": 59.20347,
+  "longitude": -16.46666
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T00:12:00.000Z",
+  "latitude": 59.20264,
+  "longitude": -16.46613
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T00:22:00.000Z",
+  "latitude": 59.2017,
+  "longitude": -16.46558
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T00:32:00.000Z",
+  "latitude": 59.20081,
+  "longitude": -16.46529
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T00:42:00.000Z",
+  "latitude": 59.20001,
+  "longitude": -16.46519
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T00:52:00.000Z",
+  "latitude": 59.19909,
+  "longitude": -16.46536
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T01:02:00.000Z",
+  "latitude": 59.19852,
+  "longitude": -16.46536
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T01:12:00.000Z",
+  "latitude": 59.19775,
+  "longitude": -16.46536
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T01:22:00.000Z",
+  "latitude": 59.19707,
+  "longitude": -16.46524
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T01:32:00.000Z",
+  "latitude": 59.19643,
+  "longitude": -16.46511
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T01:44:00.000Z",
+  "latitude": 59.19563,
+  "longitude": -16.46484
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T01:54:00.000Z",
+  "latitude": 59.19491,
+  "longitude": -16.46459
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T02:04:00.000Z",
+  "latitude": 59.19418,
+  "longitude": -16.46429
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T02:14:00.000Z",
+  "latitude": 59.19341,
+  "longitude": -16.46405
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T02:24:00.000Z",
+  "latitude": 59.19275,
+  "longitude": -16.46361
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T02:34:00.000Z",
+  "latitude": 59.19196,
+  "longitude": -16.46335
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T02:44:00.000Z",
+  "latitude": 59.19108,
+  "longitude": -16.46321
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T02:54:00.000Z",
+  "latitude": 59.19028,
+  "longitude": -16.46307
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T03:04:00.000Z",
+  "latitude": 59.18956,
+  "longitude": -16.46333
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T03:14:00.000Z",
+  "latitude": 59.18886,
+  "longitude": -16.46379
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T03:24:00.000Z",
+  "latitude": 59.18822,
+  "longitude": -16.46428
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T03:34:00.000Z",
+  "latitude": 59.18765,
+  "longitude": -16.46497
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T03:45:00.000Z",
+  "latitude": 59.18721,
+  "longitude": -16.46563
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T03:55:00.000Z",
+  "latitude": 59.18675,
+  "longitude": -16.46613
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T04:05:00.000Z",
+  "latitude": 59.18649,
+  "longitude": -16.4666
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T04:15:00.000Z",
+  "latitude": 59.18618,
+  "longitude": -16.46692
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T04:25:00.000Z",
+  "latitude": 59.18581,
+  "longitude": -16.46743
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T04:35:00.000Z",
+  "latitude": 59.1854,
+  "longitude": -16.4681
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T04:45:00.000Z",
+  "latitude": 59.18488,
+  "longitude": -16.46876
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T04:55:00.000Z",
+  "latitude": 59.18441,
+  "longitude": -16.46937
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T05:05:00.000Z",
+  "latitude": 59.18407,
+  "longitude": -16.46999
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T05:15:00.000Z",
+  "latitude": 59.18368,
+  "longitude": -16.47047
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T05:25:00.000Z",
+  "latitude": 59.18349,
+  "longitude": -16.47079
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T05:35:00.000Z",
+  "latitude": 59.18332,
+  "longitude": -16.47106
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T05:45:00.000Z",
+  "latitude": 59.18313,
+  "longitude": -16.47129
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T05:55:00.000Z",
+  "latitude": 59.18291,
+  "longitude": -16.47198
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T06:05:00.000Z",
+  "latitude": 59.18268,
+  "longitude": -16.47304
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T06:15:00.000Z",
+  "latitude": 59.1824,
+  "longitude": -16.47409
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T06:25:00.000Z",
+  "latitude": 59.18221,
+  "longitude": -16.47516
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T06:35:00.000Z",
+  "latitude": 59.182,
+  "longitude": -16.47629
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T06:45:00.000Z",
+  "latitude": 59.18199,
+  "longitude": -16.4775
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T06:55:00.000Z",
+  "latitude": 59.1819,
+  "longitude": -16.47877
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T07:05:00.000Z",
+  "latitude": 59.18188,
+  "longitude": -16.48009
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T07:15:00.000Z",
+  "latitude": 59.18183,
+  "longitude": -16.4812
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T07:25:00.000Z",
+  "latitude": 59.18187,
+  "longitude": -16.48202
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T07:35:00.000Z",
+  "latitude": 59.18192,
+  "longitude": -16.4831
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T07:45:00.000Z",
+  "latitude": 59.18203,
+  "longitude": -16.48438
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T07:55:00.000Z",
+  "latitude": 59.18208,
+  "longitude": -16.48574
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T08:05:00.000Z",
+  "latitude": 59.182,
+  "longitude": -16.4867
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T08:15:00.000Z",
+  "latitude": 59.18202,
+  "longitude": -16.48746
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T08:25:00.000Z",
+  "latitude": 59.18218,
+  "longitude": -16.48837
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T08:35:00.000Z",
+  "latitude": 59.18244,
+  "longitude": -16.48877
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T08:45:00.000Z",
+  "latitude": 59.18277,
+  "longitude": -16.48902
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T08:55:00.000Z",
+  "latitude": 59.18308,
+  "longitude": -16.48905
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T09:05:00.000Z",
+  "latitude": 59.18322,
+  "longitude": -16.48927
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T09:15:00.000Z",
+  "latitude": 59.183,
+  "longitude": -16.48924
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T09:25:00.000Z",
+  "latitude": 59.18276,
+  "longitude": -16.48916
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T09:35:00.000Z",
+  "latitude": 59.18253,
+  "longitude": -16.48887
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T09:45:00.000Z",
+  "latitude": 59.18216,
+  "longitude": -16.48885
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T09:55:00.000Z",
+  "latitude": 59.18163,
+  "longitude": -16.48871
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T10:05:00.000Z",
+  "latitude": 59.181,
+  "longitude": -16.48865
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T10:15:00.000Z",
+  "latitude": 59.18023,
+  "longitude": -16.48895
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T10:25:00.000Z",
+  "latitude": 59.1793,
+  "longitude": -16.48964
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T10:35:00.000Z",
+  "latitude": 59.17849,
+  "longitude": -16.49078
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T10:45:00.000Z",
+  "latitude": 59.17787,
+  "longitude": -16.49177
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T10:55:00.000Z",
+  "latitude": 59.17738,
+  "longitude": -16.49284
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T11:05:00.000Z",
+  "latitude": 59.17675,
+  "longitude": -16.49435
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T11:15:00.000Z",
+  "latitude": 59.17598,
+  "longitude": -16.49593
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T11:25:00.000Z",
+  "latitude": 59.17518,
+  "longitude": -16.49742
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T11:35:00.000Z",
+  "latitude": 59.17425,
+  "longitude": -16.49874
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T11:45:00.000Z",
+  "latitude": 59.17325,
+  "longitude": -16.5002
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T11:55:00.000Z",
+  "latitude": 59.17214,
+  "longitude": -16.50166
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T12:05:00.000Z",
+  "latitude": 59.171,
+  "longitude": -16.50366
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T12:15:00.000Z",
+  "latitude": 59.16996,
+  "longitude": -16.50562
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T12:25:00.000Z",
+  "latitude": 59.16914,
+  "longitude": -16.5073
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T12:35:00.000Z",
+  "latitude": 59.16862,
+  "longitude": -16.50867
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T12:45:00.000Z",
+  "latitude": 59.16829,
+  "longitude": -16.50996
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T12:55:00.000Z",
+  "latitude": 59.16804,
+  "longitude": -16.51133
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T13:05:00.000Z",
+  "latitude": 59.16781,
+  "longitude": -16.51262
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T13:15:00.000Z",
+  "latitude": 59.16757,
+  "longitude": -16.51379
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T13:25:00.000Z",
+  "latitude": 59.16746,
+  "longitude": -16.51509
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T13:35:00.000Z",
+  "latitude": 59.16736,
+  "longitude": -16.51644
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T13:45:00.000Z",
+  "latitude": 59.16725,
+  "longitude": -16.51765
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T13:55:00.000Z",
+  "latitude": 59.16706,
+  "longitude": -16.51883
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T14:05:00.000Z",
+  "latitude": 59.16676,
+  "longitude": -16.51978
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T14:15:00.000Z",
+  "latitude": 59.1663,
+  "longitude": -16.52063
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T14:25:00.000Z",
+  "latitude": 59.16569,
+  "longitude": -16.522
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T14:35:00.000Z",
+  "latitude": 59.16504,
+  "longitude": -16.52357
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T14:45:00.000Z",
+  "latitude": 59.16455,
+  "longitude": -16.52518
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T14:55:00.000Z",
+  "latitude": 59.1642,
+  "longitude": -16.5267
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T15:05:00.000Z",
+  "latitude": 59.16381,
+  "longitude": -16.52867
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T15:15:00.000Z",
+  "latitude": 59.16345,
+  "longitude": -16.53081
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T15:25:00.000Z",
+  "latitude": 59.16323,
+  "longitude": -16.5328
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T15:35:00.000Z",
+  "latitude": 59.16313,
+  "longitude": -16.53476
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T15:45:00.000Z",
+  "latitude": 59.16296,
+  "longitude": -16.5368
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T15:55:00.000Z",
+  "latitude": 59.1628,
+  "longitude": -16.53896
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T16:05:00.000Z",
+  "latitude": 59.16268,
+  "longitude": -16.54112
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T16:15:00.000Z",
+  "latitude": 59.16249,
+  "longitude": -16.54337
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T16:25:00.000Z",
+  "latitude": 59.16228,
+  "longitude": -16.54554
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T16:35:00.000Z",
+  "latitude": 59.16208,
+  "longitude": -16.54752
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T16:45:00.000Z",
+  "latitude": 59.16183,
+  "longitude": -16.54936
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T16:55:00.000Z",
+  "latitude": 59.16169,
+  "longitude": -16.55112
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T17:05:00.000Z",
+  "latitude": 59.16163,
+  "longitude": -16.5527
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T17:15:00.000Z",
+  "latitude": 59.16156,
+  "longitude": -16.55431
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T17:25:00.000Z",
+  "latitude": 59.16146,
+  "longitude": -16.556
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T17:35:00.000Z",
+  "latitude": 59.16128,
+  "longitude": -16.55761
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T17:45:00.000Z",
+  "latitude": 59.16102,
+  "longitude": -16.5593
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T17:55:00.000Z",
+  "latitude": 59.16069,
+  "longitude": -16.56124
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T18:05:00.000Z",
+  "latitude": 59.16023,
+  "longitude": -16.5634
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T18:15:00.000Z",
+  "latitude": 59.15986,
+  "longitude": -16.56558
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T18:25:00.000Z",
+  "latitude": 59.15954,
+  "longitude": -16.56779
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T18:35:00.000Z",
+  "latitude": 59.1594,
+  "longitude": -16.57007
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T18:46:00.000Z",
+  "latitude": 59.15937,
+  "longitude": -16.57245
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T18:56:00.000Z",
+  "latitude": 59.1595,
+  "longitude": -16.57491
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T19:06:00.000Z",
+  "latitude": 59.15978,
+  "longitude": -16.57675
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T19:16:00.000Z",
+  "latitude": 59.15992,
+  "longitude": -16.57865
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T19:26:00.000Z",
+  "latitude": 59.1601,
+  "longitude": -16.5806
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T19:36:00.000Z",
+  "latitude": 59.16013,
+  "longitude": -16.58268
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T19:46:00.000Z",
+  "latitude": 59.15995,
+  "longitude": -16.58503
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T19:56:00.000Z",
+  "latitude": 59.15984,
+  "longitude": -16.58744
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T20:06:00.000Z",
+  "latitude": 59.15971,
+  "longitude": -16.58994
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T20:16:00.000Z",
+  "latitude": 59.15946,
+  "longitude": -16.59209
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T20:26:00.000Z",
+  "latitude": 59.15903,
+  "longitude": -16.59441
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T20:36:00.000Z",
+  "latitude": 59.15857,
+  "longitude": -16.59658
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T20:46:00.000Z",
+  "latitude": 59.15824,
+  "longitude": -16.59854
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T20:56:00.000Z",
+  "latitude": 59.15802,
+  "longitude": -16.60085
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T21:06:00.000Z",
+  "latitude": 59.15785,
+  "longitude": -16.60285
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T21:16:00.000Z",
+  "latitude": 59.15784,
+  "longitude": -16.60482
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T21:26:00.000Z",
+  "latitude": 59.15786,
+  "longitude": -16.60662
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T21:36:00.000Z",
+  "latitude": 59.15793,
+  "longitude": -16.60831
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T21:46:00.000Z",
+  "latitude": 59.1581,
+  "longitude": -16.61018
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T21:56:00.000Z",
+  "latitude": 59.15838,
+  "longitude": -16.61145
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T22:06:00.000Z",
+  "latitude": 59.15864,
+  "longitude": -16.61253
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T22:16:00.000Z",
+  "latitude": 59.15876,
+  "longitude": -16.61348
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T22:26:00.000Z",
+  "latitude": 59.15874,
+  "longitude": -16.61429
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T22:36:00.000Z",
+  "latitude": 59.15859,
+  "longitude": -16.61484
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T22:46:00.000Z",
+  "latitude": 59.1584,
+  "longitude": -16.61517
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T22:56:00.000Z",
+  "latitude": 59.15831,
+  "longitude": -16.61527
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T23:06:00.000Z",
+  "latitude": 59.15808,
+  "longitude": -16.6159
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T23:16:00.000Z",
+  "latitude": 59.15769,
+  "longitude": -16.61651
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T23:26:00.000Z",
+  "latitude": 59.15735,
+  "longitude": -16.61745
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T23:36:00.000Z",
+  "latitude": 59.15694,
+  "longitude": -16.61871
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T23:46:00.000Z",
+  "latitude": 59.15632,
+  "longitude": -16.62026
+ },
+ {
+  "id": "OTC25-MELODI-14",
+  "dateTime": "2025-05-13T23:56:00.000Z",
+  "latitude": 59.15567,
+  "longitude": -16.6219
+ }
+]

@@ -1,0 +1,290 @@
+[
+ {
+  "id": "OTC25-OMB-07",
+  "dateTime": "2025-06-12T00:00:39.000Z",
+  "latitude": 59.7923768,
+  "longitude": -12.6800666
+ },
+ {
+  "id": "OTC25-OMB-07",
+  "dateTime": "2025-06-12T00:30:28.000Z",
+  "latitude": 59.7991769,
+  "longitude": -12.6763017
+ },
+ {
+  "id": "OTC25-OMB-07",
+  "dateTime": "2025-06-12T01:01:20.000Z",
+  "latitude": 59.8062663,
+  "longitude": -12.6724283
+ },
+ {
+  "id": "OTC25-OMB-07",
+  "dateTime": "2025-06-12T01:30:38.000Z",
+  "latitude": 59.8129907,
+  "longitude": -12.6695627
+ },
+ {
+  "id": "OTC25-OMB-07",
+  "dateTime": "2025-06-12T02:00:38.000Z",
+  "latitude": 59.8195123,
+  "longitude": -12.6670142
+ },
+ {
+  "id": "OTC25-OMB-07",
+  "dateTime": "2025-06-12T02:30:39.000Z",
+  "latitude": 59.8256505,
+  "longitude": -12.6645346
+ },
+ {
+  "id": "OTC25-OMB-07",
+  "dateTime": "2025-06-12T03:00:38.000Z",
+  "latitude": 59.8316429,
+  "longitude": -12.6613399
+ },
+ {
+  "id": "OTC25-OMB-07",
+  "dateTime": "2025-06-12T03:30:28.000Z",
+  "latitude": 59.8376792,
+  "longitude": -12.6582331
+ },
+ {
+  "id": "OTC25-OMB-07",
+  "dateTime": "2025-06-12T04:00:39.000Z",
+  "latitude": 59.844169,
+  "longitude": -12.656366
+ },
+ {
+  "id": "OTC25-OMB-07",
+  "dateTime": "2025-06-12T04:30:39.000Z",
+  "latitude": 59.850758,
+  "longitude": -12.6556162
+ },
+ {
+  "id": "OTC25-OMB-07",
+  "dateTime": "2025-06-12T05:00:40.000Z",
+  "latitude": 59.8575468,
+  "longitude": -12.6553848
+ },
+ {
+  "id": "OTC25-OMB-07",
+  "dateTime": "2025-06-12T05:30:38.000Z",
+  "latitude": 59.8641081,
+  "longitude": -12.6551414
+ },
+ {
+  "id": "OTC25-OMB-07",
+  "dateTime": "2025-06-12T06:00:38.000Z",
+  "latitude": 59.870831,
+  "longitude": -12.6552529
+ },
+ {
+  "id": "OTC25-OMB-07",
+  "dateTime": "2025-06-12T06:30:27.000Z",
+  "latitude": 59.8778606,
+  "longitude": -12.6549438
+ },
+ {
+  "id": "OTC25-OMB-07",
+  "dateTime": "2025-06-12T07:00:38.000Z",
+  "latitude": 59.8844901,
+  "longitude": -12.655417
+ },
+ {
+  "id": "OTC25-OMB-07",
+  "dateTime": "2025-06-12T07:30:42.000Z",
+  "latitude": 59.8909981,
+  "longitude": -12.6563545
+ },
+ {
+  "id": "OTC25-OMB-07",
+  "dateTime": "2025-06-12T08:00:41.000Z",
+  "latitude": 59.8970322,
+  "longitude": -12.6584676
+ },
+ {
+  "id": "OTC25-OMB-07",
+  "dateTime": "2025-06-12T08:30:37.000Z",
+  "latitude": 59.9040713,
+  "longitude": -12.6619607
+ },
+ {
+  "id": "OTC25-OMB-07",
+  "dateTime": "2025-06-12T09:00:38.000Z",
+  "latitude": 59.9110416,
+  "longitude": -12.6660646
+ },
+ {
+  "id": "OTC25-OMB-07",
+  "dateTime": "2025-06-12T09:30:27.000Z",
+  "latitude": 59.9181496,
+  "longitude": -12.6708224
+ },
+ {
+  "id": "OTC25-OMB-07",
+  "dateTime": "2025-06-12T10:00:39.000Z",
+  "latitude": 59.9251445,
+  "longitude": -12.6760242
+ },
+ {
+  "id": "OTC25-OMB-07",
+  "dateTime": "2025-06-12T10:30:40.000Z",
+  "latitude": 59.9319775,
+  "longitude": -12.68255
+ },
+ {
+  "id": "OTC25-OMB-07",
+  "dateTime": "2025-06-12T11:00:39.000Z",
+  "latitude": 59.9388368,
+  "longitude": -12.6883471
+ },
+ {
+  "id": "OTC25-OMB-07",
+  "dateTime": "2025-06-12T11:30:40.000Z",
+  "latitude": 59.9458005,
+  "longitude": -12.6929367
+ },
+ {
+  "id": "OTC25-OMB-07",
+  "dateTime": "2025-06-12T12:00:39.000Z",
+  "latitude": 59.9527607,
+  "longitude": -12.6970707
+ },
+ {
+  "id": "OTC25-OMB-07",
+  "dateTime": "2025-06-12T12:30:27.000Z",
+  "latitude": 59.9585996,
+  "longitude": -12.7005191
+ },
+ {
+  "id": "OTC25-OMB-07",
+  "dateTime": "2025-06-12T13:00:37.000Z",
+  "latitude": 59.9641046,
+  "longitude": -12.7035609
+ },
+ {
+  "id": "OTC25-OMB-07",
+  "dateTime": "2025-06-12T13:30:38.000Z",
+  "latitude": 59.970047,
+  "longitude": -12.706717
+ },
+ {
+  "id": "OTC25-OMB-07",
+  "dateTime": "2025-06-12T14:00:38.000Z",
+  "latitude": 59.9745318,
+  "longitude": -12.7098717
+ },
+ {
+  "id": "OTC25-OMB-07",
+  "dateTime": "2025-06-12T14:30:37.000Z",
+  "latitude": 59.9783915,
+  "longitude": -12.7132267
+ },
+ {
+  "id": "OTC25-OMB-07",
+  "dateTime": "2025-06-12T15:00:38.000Z",
+  "latitude": 59.9829392,
+  "longitude": -12.7175155
+ },
+ {
+  "id": "OTC25-OMB-07",
+  "dateTime": "2025-06-12T15:30:29.000Z",
+  "latitude": 59.9871316,
+  "longitude": -12.7217178
+ },
+ {
+  "id": "OTC25-OMB-07",
+  "dateTime": "2025-06-12T16:00:39.000Z",
+  "latitude": 59.9906483,
+  "longitude": -12.7264678
+ },
+ {
+  "id": "OTC25-OMB-07",
+  "dateTime": "2025-06-12T16:30:38.000Z",
+  "latitude": 59.9942089,
+  "longitude": -12.7313138
+ },
+ {
+  "id": "OTC25-OMB-07",
+  "dateTime": "2025-06-12T17:00:39.000Z",
+  "latitude": 59.99809,
+  "longitude": -12.7365348
+ },
+ {
+  "id": "OTC25-OMB-07",
+  "dateTime": "2025-06-12T17:30:40.000Z",
+  "latitude": 60.0020265,
+  "longitude": -12.7426337
+ },
+ {
+  "id": "OTC25-OMB-07",
+  "dateTime": "2025-06-12T18:00:37.000Z",
+  "latitude": 60.0062993,
+  "longitude": -12.7499021
+ },
+ {
+  "id": "OTC25-OMB-07",
+  "dateTime": "2025-06-12T18:30:27.000Z",
+  "latitude": 60.0104839,
+  "longitude": -12.7556675
+ },
+ {
+  "id": "OTC25-OMB-07",
+  "dateTime": "2025-06-12T19:00:37.000Z",
+  "latitude": 60.0140903,
+  "longitude": -12.7619357
+ },
+ {
+  "id": "OTC25-OMB-07",
+  "dateTime": "2025-06-12T19:30:38.000Z",
+  "latitude": 60.0176244,
+  "longitude": -12.7681642
+ },
+ {
+  "id": "OTC25-OMB-07",
+  "dateTime": "2025-06-12T20:00:38.000Z",
+  "latitude": 60.0214108,
+  "longitude": -12.7741649
+ },
+ {
+  "id": "OTC25-OMB-07",
+  "dateTime": "2025-06-12T20:30:39.000Z",
+  "latitude": 60.0244633,
+  "longitude": -12.7791879
+ },
+ {
+  "id": "OTC25-OMB-07",
+  "dateTime": "2025-06-12T21:00:38.000Z",
+  "latitude": 60.0271314,
+  "longitude": -12.7857234
+ },
+ {
+  "id": "OTC25-OMB-07",
+  "dateTime": "2025-06-12T21:30:28.000Z",
+  "latitude": 60.028619,
+  "longitude": -12.7929282
+ },
+ {
+  "id": "OTC25-OMB-07",
+  "dateTime": "2025-06-12T22:00:38.000Z",
+  "latitude": 60.0295301,
+  "longitude": -12.8018743
+ },
+ {
+  "id": "OTC25-OMB-07",
+  "dateTime": "2025-06-12T22:30:39.000Z",
+  "latitude": 60.0297937,
+  "longitude": -12.8119909
+ },
+ {
+  "id": "OTC25-OMB-07",
+  "dateTime": "2025-06-12T23:00:40.000Z",
+  "latitude": 60.0301046,
+  "longitude": -12.8236496
+ },
+ {
+  "id": "OTC25-OMB-07",
+  "dateTime": "2025-06-12T23:30:39.000Z",
+  "latitude": 60.0306025,
+  "longitude": -12.8379109
+ }
+]

@@ -1,0 +1,240 @@
+[
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-10-13T23:57:49+0000",
+    "latitude": 23.39516,
+    "longitude": -21.49724,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-10-13T23:28:06+0000",
+    "latitude": 23.39216,
+    "longitude": -21.49466,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-10-13T22:58:06+0000",
+    "latitude": 23.3898,
+    "longitude": -21.49174,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-10-13T22:28:06+0000",
+    "latitude": 23.38813,
+    "longitude": -21.48779,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-10-13T21:28:37+0000",
+    "latitude": 23.38707,
+    "longitude": -21.48105,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-10-13T20:59:32+0000",
+    "latitude": 23.38732,
+    "longitude": -21.47739,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-10-13T20:29:32+0000",
+    "latitude": 23.38904,
+    "longitude": -21.47267,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4496931",
+    "dateTime": "2025-10-13T20:09:39+0000",
+    "latitude": 65.4107,
+    "longitude": 4.29716,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-10-13T19:59:32+0000",
+    "latitude": 23.39093,
+    "longitude": -21.46821,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-10-13T19:32:31+0000",
+    "latitude": 23.39281,
+    "longitude": -21.46494,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4496232",
+    "dateTime": "2025-10-13T19:06:13+0000",
+    "latitude": 65.59641,
+    "longitude": 2.62623,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4496931",
+    "dateTime": "2025-10-13T16:40:19+0000",
+    "latitude": 65.45063,
+    "longitude": 4.29999,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-10-13T16:02:51+0000",
+    "latitude": 23.42392,
+    "longitude": -21.44449,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4498293",
+    "dateTime": "2025-10-13T15:44:05+0000",
+    "latitude": 66.28554,
+    "longitude": 6.55588,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4496931",
+    "dateTime": "2025-10-13T15:40:31+0000",
+    "latitude": 65.46294,
+    "longitude": 4.28977,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-10-13T15:32:51+0000",
+    "latitude": 23.42843,
+    "longitude": -21.44277,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-10-13T15:03:26+0000",
+    "latitude": 23.43269,
+    "longitude": -21.44131,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4496232",
+    "dateTime": "2025-10-13T12:12:40+0000",
+    "latitude": 65.62585,
+    "longitude": 2.65839,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-10-13T12:02:04+0000",
+    "latitude": 23.88295,
+    "longitude": -21.08563,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-10-13T11:32:04+0000",
+    "latitude": 23.44629,
+    "longitude": -21.44749,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4496686",
+    "dateTime": "2025-10-13T11:30:34+0000",
+    "latitude": 66.28554,
+    "longitude": 2.22198,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-10-13T11:02:04+0000",
+    "latitude": 23.44663,
+    "longitude": -21.44749,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4496232",
+    "dateTime": "2025-10-13T10:43:16+0000",
+    "latitude": 65.64209,
+    "longitude": 2.64322,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-10-13T10:04:32+0000",
+    "latitude": 23.45017,
+    "longitude": -21.44922,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-10-13T09:04:11+0000",
+    "latitude": 23.45476,
+    "longitude": -21.45038,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4496931",
+    "dateTime": "2025-10-13T08:42:13+0000",
+    "latitude": 65.53757,
+    "longitude": 4.17277,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-10-13T08:32:18+0000",
+    "latitude": 23.45794,
+    "longitude": -21.45108,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-10-13T08:02:18+0000",
+    "latitude": 23.46116,
+    "longitude": -21.45211,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-10-13T07:32:18+0000",
+    "latitude": 23.46498,
+    "longitude": -21.45417,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-10-13T07:05:18+0000",
+    "latitude": 23.46901,
+    "longitude": -21.45609,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-10-13T06:35:57+0000",
+    "latitude": 23.47341,
+    "longitude": -21.45889,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-10-13T06:06:11+0000",
+    "latitude": 23.47751,
+    "longitude": -21.46198,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-10-13T05:36:11+0000",
+    "latitude": 23.48184,
+    "longitude": -21.46567,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-10-13T05:03:02+0000",
+    "latitude": 23.48341,
+    "longitude": -21.46988,
+    "batteryState": "GOOD"
+  }
+]

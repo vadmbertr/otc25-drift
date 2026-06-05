@@ -1,0 +1,177 @@
+[
+  {
+    "id": "0-4496931",
+    "dateTime": "2025-10-17T23:19:02+0000",
+    "latitude": 65.59444,
+    "longitude": 5.58575,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-10-17T20:58:13+0000",
+    "latitude": 23.16938,
+    "longitude": -21.38397,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-10-17T19:55:16+0000",
+    "latitude": 23.16859,
+    "longitude": -21.38541,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4496686",
+    "dateTime": "2025-10-17T18:08:21+0000",
+    "latitude": 66.00076,
+    "longitude": 3.24749,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4496232",
+    "dateTime": "2025-10-17T17:39:56+0000",
+    "latitude": 65.75552,
+    "longitude": 3.76059,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4496719",
+    "dateTime": "2025-10-17T16:28:40+0000",
+    "latitude": 45.45057,
+    "longitude": -6.75064,
+    "batteryState": "LOW"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-10-17T15:29:02+0000",
+    "latitude": 23.17768,
+    "longitude": -21.38354,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-10-17T14:56:34+0000",
+    "latitude": 23.18002,
+    "longitude": -21.38174,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-10-17T14:26:34+0000",
+    "latitude": 23.18255,
+    "longitude": -21.37942,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4496686",
+    "dateTime": "2025-10-17T14:09:34+0000",
+    "latitude": 65.98035,
+    "longitude": 3.19003,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-10-17T13:56:23+0000",
+    "latitude": 23.18624,
+    "longitude": -21.37772,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-10-17T13:26:23+0000",
+    "latitude": 23.19027,
+    "longitude": -21.37626,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-10-17T12:56:23+0000",
+    "latitude": 23.194,
+    "longitude": -21.37446,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-10-17T11:57:04+0000",
+    "latitude": 23.20316,
+    "longitude": -21.37155,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-10-17T11:28:50+0000",
+    "latitude": 23.20711,
+    "longitude": -21.37091,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4496686",
+    "dateTime": "2025-10-17T11:13:31+0000",
+    "latitude": 65.9796,
+    "longitude": 3.17576,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-10-17T10:57:04+0000",
+    "latitude": 23.21196,
+    "longitude": -21.37129,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-10-17T07:57:36+0000",
+    "latitude": 23.23254,
+    "longitude": -21.37601,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-10-17T06:57:56+0000",
+    "latitude": 23.23863,
+    "longitude": -21.37711,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4496931",
+    "dateTime": "2025-10-17T06:51:25+0000",
+    "latitude": 65.39754,
+    "longitude": 5.42939,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-10-17T06:27:56+0000",
+    "latitude": 23.24133,
+    "longitude": -21.37762,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4498293",
+    "dateTime": "2025-10-17T06:14:59+0000",
+    "latitude": 65.92747,
+    "longitude": 7.68215,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-10-17T05:58:12+0000",
+    "latitude": 23.24459,
+    "longitude": -21.3782,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4498293",
+    "dateTime": "2025-10-17T02:13:03+0000",
+    "latitude": 65.93836,
+    "longitude": 7.68112,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-10-17T00:03:28+0000",
+    "latitude": 23.28726,
+    "longitude": -21.40695,
+    "batteryState": "GOOD"
+  }
+]

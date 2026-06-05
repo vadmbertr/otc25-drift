@@ -1,0 +1,23 @@
+[
+  {
+    "id": "0-4496931",
+    "dateTime": "2025-12-15T23:45:26+0000",
+    "latitude": 66.48044,
+    "longitude": 5.19861,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4496931",
+    "dateTime": "2025-12-15T12:18:48+0000",
+    "latitude": 66.47709,
+    "longitude": 4.96885,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4496931",
+    "dateTime": "2025-12-15T11:17:31+0000",
+    "latitude": 66.47906,
+    "longitude": 4.94988,
+    "batteryState": "GOOD"
+  }
+]

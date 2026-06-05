@@ -1,0 +1,9 @@
+numpy
+pandas
+pyarrow
+scipy
+matplotlib
+cartopy
+jinja2
+xarray
+copernicusmarine

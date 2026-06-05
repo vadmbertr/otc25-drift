@@ -1,0 +1,30 @@
+[
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-10-28T21:30:54+0000",
+    "latitude": 22.71594,
+    "longitude": -21.4783,
+    "batteryState": "LOW"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-10-28T14:04:10+0000",
+    "latitude": 22.77915,
+    "longitude": -21.46979,
+    "batteryState": "LOW"
+  },
+  {
+    "id": "0-4496719",
+    "dateTime": "2025-10-28T12:06:38+0000",
+    "latitude": 44.88187,
+    "longitude": -4.58728,
+    "batteryState": "LOW"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-10-28T11:36:32+0000",
+    "latitude": 22.80173,
+    "longitude": -21.47238,
+    "batteryState": "LOW"
+  }
+]

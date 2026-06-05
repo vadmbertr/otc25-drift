@@ -1,0 +1,93 @@
+[
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-11-07T23:22:01+0000",
+    "latitude": 21.73293,
+    "longitude": -21.98251,
+    "batteryState": "LOW"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-11-07T22:52:01+0000",
+    "latitude": 21.73302,
+    "longitude": -21.9747,
+    "batteryState": "LOW"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-11-07T22:22:01+0000",
+    "latitude": 21.73143,
+    "longitude": -21.96577,
+    "batteryState": "LOW"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-11-07T21:49:11+0000",
+    "latitude": 21.72984,
+    "longitude": -21.95621,
+    "batteryState": "LOW"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-11-07T21:21:12+0000",
+    "latitude": 21.72893,
+    "longitude": -21.94742,
+    "batteryState": "LOW"
+  },
+  {
+    "id": "0-4498293",
+    "dateTime": "2025-11-07T13:29:42+0000",
+    "latitude": 65.57285,
+    "longitude": 8.59812,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-11-07T13:21:12+0000",
+    "latitude": 21.74078,
+    "longitude": -21.79745,
+    "batteryState": "LOW"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-11-07T12:51:12+0000",
+    "latitude": 21.74099,
+    "longitude": -21.79084,
+    "batteryState": "LOW"
+  },
+  {
+    "id": "0-4496931",
+    "dateTime": "2025-11-07T12:40:51+0000",
+    "latitude": 65.04044,
+    "longitude": 1.68423,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-11-07T12:24:59+0000",
+    "latitude": 21.74221,
+    "longitude": -21.78345,
+    "batteryState": "LOW"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-11-07T11:53:37+0000",
+    "latitude": 21.74323,
+    "longitude": -21.77512,
+    "batteryState": "LOW"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-11-07T11:22:08+0000",
+    "latitude": 21.74246,
+    "longitude": -21.7666,
+    "batteryState": "LOW"
+  },
+  {
+    "id": "0-4496931",
+    "dateTime": "2025-11-07T08:12:03+0000",
+    "latitude": 65.06255,
+    "longitude": 1.71573,
+    "batteryState": "GOOD"
+  }
+]

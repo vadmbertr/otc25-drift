@@ -1,0 +1,93 @@
+[
+  {
+    "id": "0-4496232",
+    "dateTime": "2025-11-29T23:45:16+0000",
+    "latitude": 64.38629,
+    "longitude": 0.75003,
+    "batteryState": "LOW"
+  },
+  {
+    "id": "0-4496686",
+    "dateTime": "2025-11-29T23:21:01+0000",
+    "latitude": 64.45119,
+    "longitude": 3.57328,
+    "batteryState": "LOW"
+  },
+  {
+    "id": "0-4496931",
+    "dateTime": "2025-11-29T22:19:22+0000",
+    "latitude": 64.67694,
+    "longitude": 5.30526,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4496931",
+    "dateTime": "2025-11-29T19:52:20+0000",
+    "latitude": 64.67491,
+    "longitude": 5.31069,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4496686",
+    "dateTime": "2025-11-29T19:21:24+0000",
+    "latitude": 64.48162,
+    "longitude": 3.35626,
+    "batteryState": "LOW"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-11-29T18:10:28+0000",
+    "latitude": 23.08437,
+    "longitude": -24.02173,
+    "batteryState": "LOW"
+  },
+  {
+    "id": "0-4496686",
+    "dateTime": "2025-11-29T11:54:33+0000",
+    "latitude": 64.51768,
+    "longitude": 2.91779,
+    "batteryState": "LOW"
+  },
+  {
+    "id": "0-4498293",
+    "dateTime": "2025-11-29T09:38:26+0000",
+    "latitude": 65.42747,
+    "longitude": 11.34907,
+    "batteryState": "GOOD"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-11-29T08:10:03+0000",
+    "latitude": 23.12609,
+    "longitude": -23.98615,
+    "batteryState": "LOW"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-11-29T05:40:35+0000",
+    "latitude": 23.1191,
+    "longitude": -23.97864,
+    "batteryState": "LOW"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-11-29T05:10:35+0000",
+    "latitude": 23.11798,
+    "longitude": -23.97701,
+    "batteryState": "LOW"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-11-29T04:40:35+0000",
+    "latitude": 23.11716,
+    "longitude": -23.97521,
+    "batteryState": "LOW"
+  },
+  {
+    "id": "0-4495957",
+    "dateTime": "2025-11-29T04:13:01+0000",
+    "latitude": 23.11618,
+    "longitude": -23.97418,
+    "batteryState": "LOW"
+  }
+]

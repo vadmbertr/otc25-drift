@@ -1,0 +1,170 @@
+[
+  {
+    "id": "650658",
+    "dateTime": "2025-12-14T00:00:00Z",
+    "latitude": 51.1145,
+    "longitude": 1.3107,
+    "heading": 342.0,
+    "speed": 0.0
+  },
+  {
+    "id": "650658",
+    "dateTime": "2025-12-14T00:30:00Z",
+    "latitude": 51.11440000000002,
+    "longitude": 1.3106,
+    "heading": 352.0,
+    "speed": 0.0
+  },
+  {
+    "id": "650658",
+    "dateTime": "2025-12-14T09:30:00Z",
+    "latitude": 51.1144,
+    "longitude": 1.3105,
+    "heading": 141.0,
+    "speed": 0.0
+  },
+  {
+    "id": "650658",
+    "dateTime": "2025-12-14T10:00:00Z",
+    "latitude": 51.1144,
+    "longitude": 1.3108,
+    "heading": 5.0,
+    "speed": 0.0
+  },
+  {
+    "id": "650658",
+    "dateTime": "2025-12-14T10:30:00Z",
+    "latitude": 51.1143,
+    "longitude": 1.3108,
+    "heading": 56.0,
+    "speed": 0.0
+  },
+  {
+    "id": "650658",
+    "dateTime": "2025-12-14T11:00:00Z",
+    "latitude": 51.114300000000014,
+    "longitude": 1.3109,
+    "heading": 300.0,
+    "speed": 0.0
+  },
+  {
+    "id": "650658",
+    "dateTime": "2025-12-14T11:00:00Z",
+    "latitude": 51.1143,
+    "longitude": 1.3109,
+    "heading": 300.0,
+    "speed": 0.0
+  },
+  {
+    "id": "650658",
+    "dateTime": "2025-12-14T11:30:00Z",
+    "latitude": 51.1144,
+    "longitude": 1.3109,
+    "heading": 348.0,
+    "speed": 0.0
+  },
+  {
+    "id": "650658",
+    "dateTime": "2025-12-14T12:00:00Z",
+    "latitude": 51.1144,
+    "longitude": 1.3107,
+    "heading": 137.0,
+    "speed": 0.1028888888888889
+  },
+  {
+    "id": "650658",
+    "dateTime": "2025-12-14T12:30:00Z",
+    "latitude": 51.11450000000002,
+    "longitude": 1.3108,
+    "heading": 8.0,
+    "speed": 0.0
+  },
+  {
+    "id": "650658",
+    "dateTime": "2025-12-14T21:00:00Z",
+    "latitude": 51.1144,
+    "longitude": 1.3106,
+    "heading": 7.0,
+    "speed": 0.0
+  },
+  {
+    "id": "650658",
+    "dateTime": "2025-12-14T21:30:00Z",
+    "latitude": 51.1144,
+    "longitude": 1.3104,
+    "heading": 309.0,
+    "speed": 0.0
+  },
+  {
+    "id": "650658",
+    "dateTime": "2025-12-14T22:00:00Z",
+    "latitude": 51.1144,
+    "longitude": 1.3106,
+    "heading": 310.0,
+    "speed": 0.0
+  },
+  {
+    "id": "650658",
+    "dateTime": "2025-12-14T22:30:00Z",
+    "latitude": 51.11450000000002,
+    "longitude": 1.3110000000000002,
+    "heading": 318.0,
+    "speed": 0.0
+  },
+  {
+    "id": "650658",
+    "dateTime": "2025-12-14T13:00:00Z",
+    "latitude": 51.1143,
+    "longitude": 1.3108,
+    "heading": 244.0,
+    "speed": 0.0
+  },
+  {
+    "id": "650658",
+    "dateTime": "2025-12-14T13:30:00Z",
+    "latitude": 51.1143,
+    "longitude": 1.3108,
+    "heading": 345.0,
+    "speed": 0.0
+  },
+  {
+    "id": "650658",
+    "dateTime": "2025-12-14T14:00:00Z",
+    "latitude": 51.1143,
+    "longitude": 1.3108,
+    "heading": 307.0,
+    "speed": 0.0
+  },
+  {
+    "id": "650658",
+    "dateTime": "2025-12-14T14:30:00Z",
+    "latitude": 51.11450000000002,
+    "longitude": 1.3107,
+    "heading": 341.0,
+    "speed": 0.0
+  },
+  {
+    "id": "650658",
+    "dateTime": "2025-12-14T23:00:00Z",
+    "latitude": 51.1145,
+    "longitude": 1.3102,
+    "heading": 314.0,
+    "speed": 0.0
+  },
+  {
+    "id": "650658",
+    "dateTime": "2025-12-14T23:30:00Z",
+    "latitude": 51.1144,
+    "longitude": 1.3105,
+    "heading": 38.0,
+    "speed": 0.0
+  },
+  {
+    "id": "650658",
+    "dateTime": "2025-12-15T00:00:00Z",
+    "latitude": 51.1143,
+    "longitude": 1.3105,
+    "heading": 109.0,
+    "speed": 0.0
+  }
+]

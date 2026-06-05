@@ -1,0 +1,16 @@
+[
+  {
+    "id": "0-4496931",
+    "dateTime": "2026-02-17T05:52:27+0000",
+    "latitude": 68.76926,
+    "longitude": 4.53083,
+    "batteryState": "LOW"
+  },
+  {
+    "id": "0-4498293",
+    "dateTime": "2026-02-17T00:51:49+0000",
+    "latitude": 68.80603,
+    "longitude": 5.76505,
+    "batteryState": "LOW"
+  }
+]
